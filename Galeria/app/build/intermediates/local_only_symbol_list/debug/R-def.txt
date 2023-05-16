@@ -1,0 +1,33 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color white
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id action_text
+id add_comment_button
+id button_select_image
+id caption_view
+id comment_input
+id comments_view
+id delete_button
+id image_view
+id like_button
+id likes_view
+id logs_button
+id logs_recycler_view
+id recycler_view
+id timestamp_text
+id title_view
+layout activity_image_details
+layout activity_logs
+layout activity_main
+layout image_item
+layout log_item
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Base.Theme.Galeria
+style Theme.Galeria
+xml backup_rules
+xml data_extraction_rules

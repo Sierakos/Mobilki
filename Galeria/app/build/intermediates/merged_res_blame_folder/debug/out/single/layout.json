@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "com.example.galeria.app-mergeDebugResources-33:/layout/image_item.xml",
+        "source": "com.example.galeria.app-main-36:/layout/image_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\karol\\.gradle\\daemon\\8.0\\com.example.galeria.app-mergeDebugResources-33:\\layout\\image_item.xml",
+        "source": "C:\\Users\\karol\\.gradle\\daemon\\8.0\\com.example.galeria.app-main-36:\\layout\\image_item.xml"
+    }
+]
